@@ -4,7 +4,7 @@
              DeriveFunctor, ScopedTypeVariables #-}
 --------------------------------------------------------------------------------
 -- |
--- Module      :  Text.PrettyPrint.JPP
+-- Module      :  Text.PrettyPrint.Lotus
 -- Copyright   :  Samir Jindel (c) 2013
 --
 -- License     :  BSD-style (see the file LICENSE)
@@ -60,7 +60,7 @@
 -- TODO(sjindel): Add documentation everywhere.
 -- TODO(sjindel): Use hash-consing of the 'Doc's to improve memoization reuse.
 
-module Text.PrettyPrint.JPP
+module Text.PrettyPrint.Lotus
   ( -- Classes
     Long(..)
   , TextLike(..)

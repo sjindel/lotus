@@ -8,3 +8,5 @@ LICENSE file.
 
 The LICENSE file is also where we will put copyright information for the
 contributors.
+
+C++ code should generally follow the LLVM style guide.

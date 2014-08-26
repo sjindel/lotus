@@ -1,0 +1,12 @@
+* algo
+
+   - devirtualize things
+   - memoize flatten
+   - optimize by precomputing minimum costs
+
+* code
+
+   - check defs and impls match
+   - check IWYU and unused imports
+   - static asserts
+   - moves
